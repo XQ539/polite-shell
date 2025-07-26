@@ -10,6 +10,6 @@ This tiny tool adds `please` as a wrapper for `sudo` in:
 ## Quick Install
 
 ```bash
-git clone https://github.com/XQ539/please.git
+git clone https://github.com/XQ539/polite-shell.git
 cd please
 ./install.sh
