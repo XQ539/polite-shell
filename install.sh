@@ -11,6 +11,7 @@ case "$SHELLTYPE" in
          echo 'alias please="sudo"' >> ~/.config/fish/config.fish ;;
   *)     echo "Shell $SHELLTYPE noch nicht unterstützt." ;;
 esac
-echo "Fertig. Neue Shell starten oder Konfig-Datei sourcen."
+echo "done. Start new shell, reboot, log off and in again, take a nap... dono..."
 EOF
 please chmod +x install.sh
+# Could probably work... if not: add the 1 to 3 lines of code by yourself...
